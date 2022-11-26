@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **interest projects**
 
-- 👨‍💻 All of my projects are available at [nuha-haleem](nuha-haleem)
-
 - 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **nuhahaleem19**
