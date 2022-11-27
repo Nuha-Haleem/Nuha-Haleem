@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **NuhaHaleem19**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nuha-haleem-31aab1219www.linkedin.com/in/nuha-haleem-31aab1219](www.linkedin.com/in/nuha-haleem-31aab1219www.linkedin.com/in/nuha-haleem-31aab1219)
+- 📄 Know about my experiences [www.linkedin.com/in/nuha-haleem-31aab1219www.linkedin.com/in/nuha-haleem-31aab1219]
 
 - ⚡ Fun fact **Your nose gets warmer when you lie.🤣🤥**
 
