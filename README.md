@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuha Haleem</h1>
 <h3 align="center">Undergraduate from open university of Sri Lanka (software engineering)</h3>
-<img align = "right" alt ="coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdzen.ru%2Fmedia%2Fid%2F5ee66e7e7cadb75a66e4c1aa%2Fege-profil-18-chisla-na-doske-616af3615814505284146601&psig=AOvVaw2v-gEJSboyFH4ktkd3Ki-8&ust=1669610104027000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNij7Ln5zvsCFQAAAAAdAAAAABAS">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuha-haleem&label=Profile%20views&color=0e75b6&style=flat" alt="nuha-haleem" /> </p>
 
